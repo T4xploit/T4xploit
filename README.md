@@ -1,4 +1,4 @@
-### T4xploit [https://discord.gg/a3s99a47ct].  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### [T4xploit] (https://discord.gg/a3s99a47ct).  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
