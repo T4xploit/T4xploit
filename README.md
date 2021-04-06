@@ -1,4 +1,4 @@
-### T4xploit (https://discord.gg/a3s99a47ct).  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### T4xploit [https://discord.gg/a3s99a47ct].  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
@@ -63,7 +63,7 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
 </p>
 
-### - Podcast ⚡️ (https://discord.gg/a3s99a47ct)
+### - Podcast ⚡️ [https://discord.gg/a3s99a47ct]
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
 </p>
