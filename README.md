@@ -57,11 +57,6 @@
 
 </p>
 
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-</p>
 
 ### - [Podcast ⚡️](https://discord.gg/a3s99a47ct)
 <p align="center">
